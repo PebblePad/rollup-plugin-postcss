@@ -1,6 +1,6 @@
 # rollup-plugin-postcss
 
-[![Build Status](https://img.shields.io/circleci/build/gh/PebblePad/rollup-plugin-postcss/master.svg?style=flat)](https://circleci.com/gh/egoist/rollup-plugin-postcss) [![codecov](https://codecov.io/gh/PebblePad/rollup-plugin-postcss/branch/master/graph/badge.svg)](https://codecov.io/gh/egoist/rollup-plugin-postcss)
+[![Build Status](https://img.shields.io/circleci/build/gh/PebblePad/rollup-plugin-postcss/master.svg?style=flat)](https://circleci.com/gh/PebblePad/rollup-plugin-postcss) [![codecov](https://codecov.io/gh/PebblePad/rollup-plugin-postcss/branch/master/graph/badge.svg)](https://codecov.io/gh/Pebblepad/rollup-plugin-postcss)
 
 <img align="right" width="95" height="95"
      title="Philosopher’s stone, logo of PostCSS"
